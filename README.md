@@ -1,18 +1,18 @@
-# [Nome do projeto]
+# openLibrary
 
-[Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.]
+O sistema openLibrary tem como foco uma melhor experiência de usuário e agilidade nos processos básicos da biblioteca que esteja integrado. Dessa maneira é possível reduzir drasticamente filas no caixa da biblioteca, tornando toda a experiência do cliente o mais sutil possível dentro das limitações da ferramenta utilizada. O objetivo não é substituir o bibliotecário, mas ajudá-lo a reduzir o trabalho manual realizado nas tarefas básicas. 
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1]
-* [Nome completo do aluno 2]
-* [Nome completo do aluno 3]
-* [Nome completo do aluno 4]
+* Douglas Evangelista Dos Santos
+* Higor Henrique Batista de Souza
+* João Gabriel Alves
+* Kelly Marques
+* Marco Willy Azevedo Gomes
 
 ## Professores responsáveis
 
-* [Nome completo do professor 1]
-* [Nome completo do professor 2]
+* Juliana Amaral Baroni de Carvalho
 
 ## Instruções de utilização
 
