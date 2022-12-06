@@ -1,23 +1,23 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: 
+title: openLibrary
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
+  - family-names: Alves
+    given-names: João Gabriel
+  - family-names: Marques
+    given-names: Kelly
+  - family-names: Evangelista dos Santos
+    given-names: Douglas
+  - family-names: Batista de Souza
+    given-names: Higor Henrique
+  - family-names: Azevedo Gomes
+    given-names: Marco Willy
   - family-names: 
     given-names:
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Baroni de Carvalho
+    given-names: Juliana Amaral
   - name-suffix: Professor
     affiliation: PUC Minas
     family-names: 
