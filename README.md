@@ -1,5 +1,9 @@
 # openLibrary
 
+Aplicações para processos de negócios - Gestão de Biblioteca
+
+2º Período - Sistemas de Informação
+
 O sistema openLibrary tem como foco uma melhor experiência de usuário e agilidade nos processos básicos da biblioteca que esteja integrado. Dessa maneira é possível reduzir drasticamente filas no caixa da biblioteca, tornando toda a experiência do cliente o mais sutil possível dentro das limitações da ferramenta utilizada. O objetivo não é substituir o bibliotecário, mas ajudá-lo a reduzir o trabalho manual realizado nas tarefas básicas. 
 
 ## Alunos integrantes da equipe
