@@ -22,4 +22,4 @@ O projeto openLibrary tem como objetivo, mapear, identificar, modelar e implemen
 
 ## Instruções de utilização
 
-Não há instruções de utilização, devido a implementação da aplicação na plataforma Sydle One.
+Não há instruções de utilização devido a forma de implementação da aplicação na plataforma Sydle One.
