@@ -1,10 +1,12 @@
 # openLibrary
 
-Aplicações para processos de negócios - Gestão de Biblioteca
+Aplicação para processos de negócios - Gestão de Biblioteca
 
 2º Período - Sistemas de Informação
 
-O sistema openLibrary tem como foco uma melhor experiência de usuário e agilidade nos processos básicos da biblioteca que esteja integrado. Dessa maneira é possível reduzir drasticamente filas no caixa da biblioteca, tornando toda a experiência do cliente o mais sutil possível dentro das limitações da ferramenta utilizada. O objetivo não é substituir o bibliotecário, mas ajudá-lo a reduzir o trabalho manual realizado nas tarefas básicas. 
+Pontifícia Universidade Católica de Minas Gerais (PUC Minas Virtual)
+
+O projeto openLibrary tem como objetivo, mapear, identificar, modelar e implementar uma aplicação que deverá ser utilizada para melhorar a eficiência no fluxo de trabalho em uma biblioteca. Automatizando todos seus processos básicos.
 
 ## Alunos integrantes da equipe
 
@@ -20,4 +22,4 @@ O sistema openLibrary tem como foco uma melhor experiência de usuário e agilid
 
 ## Instruções de utilização
 
-[Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.]
+Não há instruções de utilização, devido a implementação da aplicação na plataforma Sydle One.
